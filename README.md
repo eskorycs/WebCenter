@@ -1,6 +1,6 @@
-# Project Title
+# Repository Purpose
 
-One Paragraph of project description goes here
+Store documentation for various WebCenter deployments. Provide tips & tricks to using the software.
 
 ## Getting Started
 
